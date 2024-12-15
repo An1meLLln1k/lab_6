@@ -1,0 +1,53 @@
+{
+    "total_memory_usage": "75731",
+    "ArrTime": {
+        "memory_abs": "15930",
+        "type": "float32",
+        "memory_per": 21.035
+    },
+    "Distance": {
+        "memory_abs": "15930",
+        "type": "float32",
+        "memory_per": 21.035
+    },
+    "Dest": {
+        "memory_abs": "7992",
+        "type": "category",
+        "memory_per": 10.5531
+    },
+    "FlightDate": {
+        "memory_abs": "7985",
+        "type": "category",
+        "memory_per": 10.5439
+    },
+    "CRSArrTime": {
+        "memory_abs": "7965",
+        "type": "uint16",
+        "memory_per": 10.5175
+    },
+    "OriginStateName": {
+        "memory_abs": "3987",
+        "type": "category",
+        "memory_per": 5.2647
+    },
+    "DestStateName": {
+        "memory_abs": "3987",
+        "type": "category",
+        "memory_per": 5.2647
+    },
+    "Airline": {
+        "memory_abs": "3984",
+        "type": "category",
+        "memory_per": 5.2607
+    },
+    "Cancelled": {
+        "memory_abs": "3982",
+        "type": "bool",
+        "memory_per": 5.2581
+    },
+    "Diverted": {
+        "memory_abs": "3982",
+        "type": "bool",
+        "memory_per": 5.2581
+    }
+}

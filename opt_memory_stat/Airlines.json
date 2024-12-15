@@ -1,0 +1,13 @@
+{
+    "total_memory_usage": "185",
+    "Description": {
+        "memory_abs": "105",
+        "type": "object",
+        "memory_per": 56.7568
+    },
+    "Code": {
+        "memory_abs": "79",
+        "type": "object",
+        "memory_per": 42.7027
+    }
+}
